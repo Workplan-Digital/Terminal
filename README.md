@@ -2,7 +2,7 @@
 
 ## Installation
 
-Navigiere zum Installieren der Software zur Seite  [Releases](https://github.com/Workplan-Digital/Terminal/releases). Dort kannst Du die [Setup.exe](https://github.com/Workplan-Digital/Terminal/releases/tag/v1.0.4) der aktuellsten Version herunterladen und auf Deinem PC ausführen.
+Navigiere zum Installieren der Software zur Seite  [Releases](https://github.com/Workplan-Digital/Terminal/releases). Dort kannst Du die [Setup.exe](https://github.com/Workplan-Digital/Terminal/releases/tag/v1.0.5) der aktuellsten Version herunterladen und auf Deinem PC ausführen.
 
 ## Hinweise
 Aktuell werden Warnungen bei der Installation angezeigt. Diese sind darauf zurückzuführen, dass von Seiten von Workplan.Digital noch kein Sicherheitsschlüssel bei Microsoft käuflich erworben wurde. Dieser wird jedoch benötigt, um die Integrität unserer Software zu verifizieren. 
